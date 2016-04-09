@@ -1,0 +1,4 @@
+Sitemap: http://mytestsite.org/sitemapindex.xml
+
+User-Agent: *
+Host: mytestsite.org

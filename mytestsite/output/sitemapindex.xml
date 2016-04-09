@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>http://mytestsite.org/categories/blog.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/categories/cat_nikola.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/categories/demo.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/categories/nikola.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/categories/python.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/galleries/demo/rss.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/galleries/rss.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/rss.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://mytestsite.org/sitemap.xml</loc>
+  <lastmod>2016-04-09T07:54:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
